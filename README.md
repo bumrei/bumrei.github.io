@@ -1,10 +1,8 @@
 ## Welcome to GitHub Pages
 
-노범래의 홈페이지!!!
+노범래의 홈페이지
 
-하하하!!!
 
-ㅎㅎㅎㅎㅎ
 You can use the [editor on GitHub](https://github.com/bumrei/bumrei.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

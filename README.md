@@ -28,6 +28,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+![Alt text](/OneDrive/바탕화면/Ai_Academy/HeeDong.jpg)
+![Alt text](/OneDrive/바탕화면/Ai_Academy/HeeDong.jpg "Optional title")
+
 [Link](url) and ![Image](src)
 ```
 

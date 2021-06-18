@@ -2,8 +2,7 @@
 
 노범래의 홈페이지
 
-시험 시험
-
+안녕 점탱아ㅎㅎ ♥
 
 
 You can use the [editor on GitHub](https://github.com/bumrei/bumrei.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.

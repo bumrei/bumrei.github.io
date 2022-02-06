@@ -12,6 +12,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+![image-3](https://user-images.githubusercontent.com/75995380/152687174-7b5bcc95-bd2d-485c-bb7b-c5fc786f174a.png)
+
+
 ```markdown
 Syntax highlighted code block
 
